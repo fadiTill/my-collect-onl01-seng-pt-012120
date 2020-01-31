@@ -3,6 +3,5 @@ my_collect(empty_array)
  while i < empty_array.lenght do
    yield (empty_array|i|)
    i +=1
- end 
  end
-
+ end
